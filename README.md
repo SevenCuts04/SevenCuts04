@@ -9,9 +9,8 @@ import java.util.*;
 
 public class SevenCuts04{
   String pronouns[] = {"He", "Him"};
-  String code[] = {"Java", "HTML", "CSS", "Javascript", "C#"};
-  String jsLibraries[] = {"JQuery", "Node.js", "Next.js", "React.js"};
-  String backend = "firebase";
+  String countryOfOrigin = "India";
+  boolean school = true;
   
   String contact = "obscuresquire@gmail.com";
   
