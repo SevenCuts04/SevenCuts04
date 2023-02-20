@@ -30,8 +30,6 @@ public class SevenCuts04{
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenCuts04&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SevenCuts04&repo=robusta&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![SevenCuts04's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenCuts04&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenCuts04&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
