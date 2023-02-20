@@ -8,7 +8,6 @@
 import java.util.*;
 
 public class SevenCuts04{
-  String pronouns[] = {"He", "Him"};
   String countryOfOrigin = "India";
   boolean school = true;
   
